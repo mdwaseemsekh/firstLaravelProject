@@ -61,7 +61,7 @@
                 <th scope="col">#</th>
                 <th scope="col">Note Title</th>
                 <th scope="col">Note Description</th>
-                <th scope="col">Action</th>
+                <th scope="col">Edit/Delete</th>
               </tr>
             </thead>
             <tbody>
